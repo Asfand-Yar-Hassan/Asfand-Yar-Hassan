@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Asfand Yar Hassan</h1>
-<h2>Front End Developer</h2>I am a current student majoring in Software Development at Sheridan College. I started with Java but currently i'm learning full stack development using various Javascript frameworks and libraries.<ul><li>🌍  I'm based in Toronto</li><li> ✉️  You can contact me at <a href="mailto:hassaasf@sheridancollege.ca">hassaasf@sheridancollege.ca</a></li><li> 🧠  I'm learning React</li><li> 🤝  I'm open to collaborating on interesting project</li>
+<h2>Full Stack Developer</h2>I am a current student majoring in Software Development at Sheridan College. I started with Java but currently i'm learning full stack development using various Javascript frameworks and libraries.<ul><li>🌍  I'm based in Toronto</li><li> ✉️  You can contact me at <a href="mailto:hassaasf@sheridancollege.ca">hassaasf@sheridancollege.ca</a></li><li> 🧠  I'm learning React</li><li> 🤝  I'm open to collaborating on interesting project</li>
 
 ### Skills
 
